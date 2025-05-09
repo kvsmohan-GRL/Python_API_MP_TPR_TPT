@@ -1,0 +1,21 @@
+{
+    "common": {
+        "initial_wait": 10,
+        "default_log_mode": "a",
+        "max_connection_attempts": 3,
+        "connection_timeout": 30,
+        "api_timeout": 60,
+        "log_filename": "grl_api_debug_Selected_run.log"
+    },
+    "applications": {
+        "GRL-C3-MP-TPR": {
+            "app_path": "C:\\Program Files\\GRL\\GRL-C3-MP-TPR\\AppFiles\\C3BrowserApp_MPP_TPR.exe",
+            "known_port": 2002,
+            "app_name": "GRL-C3-MP-TPR"
+        }
+    },
+    "default_app": "GRL-C3-MP-TPR",
+    "load_from_json": "True",
+    "ip_address": "192.168.5.9",
+    "project_name_with_time_stamp": "True"
+}
