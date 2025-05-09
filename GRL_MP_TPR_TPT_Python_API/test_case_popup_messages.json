@@ -1,0 +1,24 @@
+{
+    "Other_message": [
+        "The controller calibration was expired. Please contact GRL support.!"
+    ],
+    "MPP_PTX_POW_Digital_Ping_128kHz_P1": [
+        "Please remove the coil from the base station and click OK.",
+        "Please click OK, and then place the TPR_MPP1 coil on the base station."
+    ],
+    "MPP_PTX_POW_Digital_Ping_360kHz_P1": [
+        "Please remove the coil from the base station and click OK.",
+        "Please click OK, and then place the TPR_MPP1 coil on the base station."
+    ],
+    "MPP_PTX_POW_Cloak_Ping_360_LPM_TC1": [
+        "Please remove the coil from the base station and click OK.",
+        "Please click OK, and then place the TPR_MPP4 coil on the base station."
+    ],
+    "MPP_PTX_FOD_MATEDQ_PREPOWER_DETECTION_TC1": [
+        "Adjust the position of the coil to (0,2)",
+        "Please connect the Ambient temperature measuring probe to Channel-1 and [RFO#MPP1B] to Channel-2 of Thermomux.",
+        "Error while opening Thermo-Mux device make sure to connect thermomux and try again, if still problem exits restart Application and try again.",
+        "Ambient or RFO/Puck temperature is not within 23 °C ± 5 °C.\nPlease bring the temperature back to range before proceeding.\n\nMeasured Ambient: 0 °C\nMeasured RFO/Puck: 0 °C",
+        "Error while opening Thermo-Mux device make sure to connect thermomux and try again, if still problem exits restart Application and try again."
+    ]
+}
